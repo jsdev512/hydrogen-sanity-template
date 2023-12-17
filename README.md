@@ -2,13 +2,6 @@
 
 This demo is compatible with `@shopify/hydrogen >= 2023.10.0` built on Remix.
 
-> For a more complex reference example, please see our [demo-ecommerce repo](https://github.com/sanity-io/demo-ecommerce) which features a monorepo with an embedded Sanity Studio, full live preview, more content models and added internationalisation.
-> For the legacy Hydrogen v1 template, please refer to the [hydrogen-v1 branch](https://github.com/sanity-io/hydrogen-sanity-demo/tree/hydrogen-v1).
-
-<img src="https://user-images.githubusercontent.com/209129/173065853-77b26be2-dd15-4b4d-8164-850e70247b88.png" width="1000" />
-
-[Demo][hydrogen-sanity-demo] | [Sanity Studio][sanity-shopify-studio] | [Sanity Connect for Shopify][sanity-connect]
-
 # About
 
 AKVA is our customized [Hydrogen][hydrogen-github] starter that presents a real-world example of how Sanity and Structured Content can elevate your custom Shopify storefronts.
